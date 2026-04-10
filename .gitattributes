@@ -1,0 +1,17 @@
+# Unity 파일 줄바꿈 통일
+* text=auto
+
+*.cs text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.xml text eol=lf
+*.inputactions text eol=lf
+
+# 바이너리 파일
+*.png binary
+*.jpg binary
+*.fbx binary
+*.mp3 binary
+*.wav binary

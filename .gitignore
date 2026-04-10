@@ -1,0 +1,31 @@
+Library/
+Logs/
+Temp/
+UserSettings/
+
+# 패키지
+Packages/
+
+# 프로젝트 설정
+ProjectSettings/
+
+# VS Code 설정
+.vscode/
+
+# C# 프로젝트 파일
+*.csproj
+*.sln
+
+# 기타
+*.meta
+*.asset
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.DS_Store
+Thumbs.db
+
+Assets/Settings
+Assets/TutorialInfo
+Assets/InputSystem_Actions
